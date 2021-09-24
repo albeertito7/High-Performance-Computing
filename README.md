@@ -48,38 +48,38 @@ applications, services, intelligent systems and systems based on knowledge.
 ## Subject Contents
 1. Introduction: High Performance Computing (2h F+4h NF)
 2. Introduction to the parallel processing and Benchmarking(4h F+12h NF)
-	* Introduction
-	* Concepts
-	* Parallel programming models
-	* Design of parallel applications
-	* Limits of the parallel processing
-	* Benchmarking Tools
+	- [x] Introduction
+	- [x] Concepts
+	- [x] Parallel programming models
+	- [x] Design of parallel applications
+	- [x] Limits of the parallel processing
+	- [x] Benchmarking Tools
 
 3. Shared-memory Parallel Programming with OpenMP (8h F+20h NF)
-	* Main Characteristics
-	* Parallel Regions
-	* Data Scoping
-	* OpenMP worksharing for loops
-	* Reductions
-	* Loop Scheduling
-	* Synchronization
+	- [x] Main Characteristics
+	- [x] Parallel Regions
+	- [x] Data Scoping
+	- [x] OpenMP worksharing for loops
+	- [x] Reductions
+	- [x] Loop Scheduling
+	- [x] Synchronization
 
 4. Distributed-memory Parallel Programming with MPI (10h F+30h NF)
-	* Main Characteristics
-	* Messages and Point-to-point communications
-	* Collevtive communication
-	* Grouping Data for communication
-	* Communicators and Topologies
+	- [x] Main Characteristics
+	- [x] Messages and Point-to-point communications
+	- [x] Collevtive communication
+	- [x] Grouping Data for communication
+	- [x] Communicators and Topologies
 
 5. Cloud Computing (4h F+10h NF)
-	* Cloud Essentials
-	* Anatomy of the cloud
-	* Oportunities
-	* OpenNebula
+	- [x] Cloud Essentials
+	- [x] Anatomy of the cloud
+	- [x] Oportunities
+	- [x] OpenNebula
 
 6. Parallel computers (2h F+6h NF)
-	* Types of parallel computers
-	* Analysis of main supercomputers located in TOP500
+	- [x] Types of parallel computers
+	- [x] Analysis of main supercomputers located in TOP500
 
 ## References
 
