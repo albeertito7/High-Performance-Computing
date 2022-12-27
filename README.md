@@ -6,6 +6,10 @@ This is a repository for PRACTISING, INSPIRATION and to review the solutions of 
 
 Give me a star ⭐ if you find it useful. You can contact me if any question.
 
+## Thanks
+
+Many thanks to my colleague [Francesc Contreras](https://github.com/elskater98) for his contribution to the activities of the course.
+
 ## Learning Objectives
 
 * Knowledge the use of benchmarking tools applied to the high performance computing environments.
