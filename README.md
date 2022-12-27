@@ -2,6 +2,10 @@
 
 This repository contains the activities required during the subject *High Perfomance Computing* of the University of Lleida Master's Degree in Informatics Engineering.
 
+This is a repository for PRACTISING, INSPIRATION and to review the solutions of a previous year, as they should not be the same.
+
+Give me a star ⭐ if you find it useful. You can contact me if any question.
+
 ## Learning Objectives
 
 * Knowledge the use of benchmarking tools applied to the high performance computing environments.
